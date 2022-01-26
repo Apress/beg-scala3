@@ -1,0 +1,1 @@
+class Person(name:String, passport:String)

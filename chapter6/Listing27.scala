@@ -1,0 +1,1 @@
+(1 to Integer.MAX_VALUE - 1).take(5)

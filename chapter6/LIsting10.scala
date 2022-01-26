@@ -1,0 +1,1 @@
+val m = scala.collection.immutable.BitSet(1,2,3)

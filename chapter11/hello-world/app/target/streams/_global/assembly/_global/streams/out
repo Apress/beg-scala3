@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalculate mappings...[0m
+[0m[[0m[0mdebug[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging files...[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[0m[0minfo[0m] [0m[0mStrategy 'discard' was applied to a file (Run the task at debug level to see details)[0m
+[0m[[0m[0minfo[0m] [0m[0mAssembly up to date: /home/asacco/Codigo/scala/test/helloworld/app/target/scala-2.12/app-assembly-0.1.0-SNAPSHOT.jar[0m

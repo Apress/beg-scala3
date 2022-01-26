@@ -1,0 +1,1 @@
+class Book(var isbn: Int, var title: String)

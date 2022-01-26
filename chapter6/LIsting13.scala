@@ -1,0 +1,1 @@
+val m = scala.collection.immutable.SortedMap(1 -> "a", 2 -> "b")

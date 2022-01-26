@@ -1,0 +1,1 @@
+val m = collection.mutable.Map(1 -> "a", 2 -> "b")

@@ -1,0 +1,1 @@
+(height: Int, width: Int) => height*width  

@@ -1,0 +1,1 @@
+val m = Map(1 -> "a", 2 -> "b") bval m: Map[Int,String] = Map(1 -> a, 2 -> b)
